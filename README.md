@@ -28,8 +28,14 @@ Los concepto aplicados fueron animaciones, eventos, manejo de datos, e interface
 * [Behance](https://www.behance.net/AsCraftC)
 
 # Instalación
-Para ejecutar el proyecto dirigirse a la sección de release y descargad el .apk y .jpg.
-Instalad el paquete en un dispositivo android con cámara y version no inferior a Lolllipop (5.0)
+Para ejecutar el proyecto
+1. dirigirse a la sección de release y descargad el .apk y .jpg.
+2. Instalad el paquete en un dispositivo android con cámara y version no inferior a Lolllipop (5.0)
+
+Para editar el código:
+1. Clonad el proyecto donde necesites.
+2. Instalad Unity Editor version 2022.3.2f1 con plataforma de Android bluid support
+3. Importad el proyecto a Unity HUB
 
 ## Licencia 📄
 MIT Public License v3.0
