@@ -20,14 +20,14 @@ Los concepto aplicados fueron animaciones, eventos, manejo de datos, e interface
 ![Captura del proyecto](./readme/muestra1.jpg)
 ![Captura del proyecto](./readme/muestra2.jpg)
 
-# Author ✒️
+## Author ✒️
 ** Cristóbal Contreras Beltrán **
 
 * [cristobal.contreras@outlook.cl](cristobal.contreras@outlook.cl)
 * [LinkedIn](https://www.linkedin.com/in/cristobal-contreras-beltran/)
 * [Behance](https://www.behance.net/AsCraftC)
 
-# Instalación
+## Instalación
 Para ejecutar el proyecto
 1. dirigirse a la sección de release y descargad el .apk y .jpg.
 2. Instalad el paquete en un dispositivo android con cámara y version no inferior a Lolllipop (5.0)
