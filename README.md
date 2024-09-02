@@ -1,5 +1,5 @@
 # Embriología Visor AR: Estado 14
-![Imagen del proyecto](./readme/Muestra_1.jpg)
+![Imagen del proyecto](./readme/imgP.jpg)
 
 ## Descripción 📑
 
@@ -17,9 +17,8 @@ Los concepto aplicados fueron animaciones, eventos, manejo de datos, e interface
 
 ## Vista previa del proyecto
 
-![Captura del proyecto](./readme/AppLogo.jpg)
-![Captura del proyecto](./readme/Muestra_1&Label.jpg)
-![Captura del proyecto](./readme/Muestra_2&Label.jpg)
+![Captura del proyecto](./readme/muestra1.jpg)
+![Captura del proyecto](./readme/muestra2.jpg)
 
 # Author ✒️
 ** Cristóbal Contreras Beltrán **
