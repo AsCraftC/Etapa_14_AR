@@ -21,7 +21,7 @@ Los concepto aplicados fueron animaciones, eventos, manejo de datos, e interface
 ![Captura del proyecto](./readme/muestra2.jpg)
 
 ## Author ✒️
-** Cristóbal Contreras Beltrán **
+**Cristóbal Contreras Beltrán**
 
 * [cristobal.contreras@outlook.cl](cristobal.contreras@outlook.cl)
 * [LinkedIn](https://www.linkedin.com/in/cristobal-contreras-beltran/)
