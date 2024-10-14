@@ -12,8 +12,8 @@ Los concepto aplicados fueron animaciones, eventos, manejo de datos, e interface
 
 ## Tecnologías 🛠
 
-[![Unity](./readme/Unity.png)](https://docs.unity.com/)
-[![Vuforia](./readme/Vuforia.png)](https://docs.unity3d.com/es/2018.4/Manual/vuforia-sdk-overview.html)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity.com/)
+<a href="https://docs.unity3d.com/es/2018.4/Manual/vuforia-sdk-overview.html"><img src="./readme/Vuforia.png" height="24"/></a>
 
 ## Vista previa del proyecto
 
